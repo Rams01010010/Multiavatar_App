@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/download"
+        android:title="Download" />
+    <item
+        android:id="@+id/share"
+        android:title="Share" />
+    <item
+        android:id="@+id/files"
+        android:title="Downloads Path" />
+    <item
+        android:id="@+id/website"
+        android:icon="@drawable/web"
+        android:title="Source Website"
+        app:showAsAction="never" />
+</menu>
